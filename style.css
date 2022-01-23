@@ -53,7 +53,7 @@
 }
 
 .snake{
-    background-color: linear-gradient(pink, yellow) ;
+    background-color:yellow;
     border: .25vmin solid white;
     border-radius: 12px;
 }
